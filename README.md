@@ -8,7 +8,7 @@ TABLE OF CONTENTS
 3. How to use MuscalApp
 4. List of known bugs
 5. Member of team and resopnsiblity
-=================
+
 
 1. Introduction
 --------------------------------
