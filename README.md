@@ -1,13 +1,13 @@
-Simon Fraser University CMPT 275 Software Engerring GROUP 2 
+Simon Fraser University CMPT 275 Software Engerring GROUP 2
 MuscalApp Application README
 
 TABLE OF CONTENTS
 =================
 1. Introduction
 2. General function descriptions
-3. How to use MuscalApp
-4. List of known bugs
-5. Member of team and resopnsiblity
+3. List of known bugs
+4. Team members and resopnsiblity
+
 
 
 1. Introduction
@@ -24,7 +24,7 @@ to track their development. Lastly Musclapp is a personal use app only, that enc
 stroke and/or heart attacks through cardiovascular activities.
 
 
-1. General function descriptions
+2. General function descriptions
 --------------------------------
 The application features a exercise application, user perfile, and instruction for users to manipulate. 
 Our project is coding by objective C, PHP and MySQL.
@@ -54,20 +54,12 @@ The detailed instruction of the exercise is shown after the user click on a spec
 the instruction screen.
 
 
-
-2. How to use MuscalApp
-------------------------------------
-
-
-
-
-
 3. List of known bugs
 ---------------
 - Countdown timer to start the exercise does not show up. The timer is supposed to appear
 after the user press “start”.
 
-4. Member of Team
+4. Team members and resopnsiblity
 -----------------
 Project Menager:
 Hartono (Tony) Salim
