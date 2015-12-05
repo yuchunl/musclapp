@@ -1,8 +1,7 @@
 Simon Fraser University CMPT 275 Software Engerring GROUP 2
 MuscalApp Application README
 
-TABLE OF CONTENTS
-=================
+#TABLE OF CONTENTS
 1. Introduction
 2. General function descriptions
 3. List of known bugs
@@ -10,8 +9,8 @@ TABLE OF CONTENTS
 
 
 
-1. Introduction
---------------------------------
+#1. Introduction
+
 Welcome to Musclapp! Musclapp is a user input and muscle building game app that will be available on iOS platform devices. 
 The app is directed to teen and adults who desire to improve their muscles but do not have enough time to go to the gym. 
 By using Musclapp, they can build muscle anywhere, even at home, without any fitness equipment. The app is recommended from 
@@ -26,7 +25,7 @@ stroke and/or heart attacks through cardiovascular activities.
 
 2. General function descriptions
 --------------------------------
--The application features a exercise application, user perfile, and instruction for users to manipulate. 
+The application features a exercise application, user perfile, and instruction for users to manipulate. 
 Our project is coding by objective C, PHP and MySQL.
 
 -Login and Register system:
