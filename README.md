@@ -39,8 +39,7 @@ date will be highlighted.
 - User Profile:
 The user can enter the personal information, such as Gender, Age, Height, and Weight.
 When the user clicks the “Save” button, all the personal information will be stored in a file in the phone.
-
--Instruction:
+- Instruction:
 To see the whole exercise and their detailed instructions, user can select instruction from the main menu.
 The detailed instruction of the exercise is shown after the user click on a specific exercise from
 the instruction screen.
@@ -51,18 +50,16 @@ Countdown timer to start the exercise does not show up. The timer is supposed to
 after the user press “start”.
 
 # Team members and resopnsiblity
-## Project Menager:
-- Hartono (Tony) Salim
+- Project Menager:
+Hartono (Tony) Salim
 
-Developer:
+- Developer:
 Davidson Kao
 Yu-Chun (May) Lin
 
-Document:
+- Document:
 Wei (Candy) Xiao
 Patrick McKnight
 
-
-------------------
-Please come to our team website to get more details.
-Team Website: https://sites.google.com/site/sfu275group2/
+"Please come to our team website to get more details.
+Team Website: https://sites.google.com/site/sfu275group2/"
