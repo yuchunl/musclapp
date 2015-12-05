@@ -27,9 +27,8 @@ stroke and/or heart attacks through cardiovascular activities.
 The application features a exercise application, user perfile, and instruction for users to manipulate. 
 Our project is coding by objective C, PHP and MySQL.
 
-## Login and Register system:
+- Login and Register system:
 A user can create a new profile with the sign-up feature and be able to login the application.
-
 - Main Page: 
 The user can click the square buttons to the “Profile”, “My Activities”, and “Exercise” to toggle to the relative pages. 
 Additionally, the user can click the “Log off” to log off the account and toggle to the authentication page.
