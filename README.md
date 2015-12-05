@@ -46,8 +46,8 @@ the instruction screen.
 
 
 # List of known bugs
-Countdown timer to start the exercise does not show up. The timer is supposed to appear
-after the user press “start”.
+- Countdown timer to start the exercise does not show up. 
+- The timer is supposed to appear after the user press “start”.
 
 # Team members and resopnsiblity
 - Project Menager:
@@ -61,5 +61,6 @@ Yu-Chun (May) Lin
 Wei (Candy) Xiao
 Patrick McKnight
 
-"Please come to our team website to get more details.
-Team Website: https://sites.google.com/site/sfu275group2/"
+###
+Please come to our team website to get more details.
+Team Website: https://sites.google.com/site/sfu275group2/
