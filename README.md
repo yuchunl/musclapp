@@ -1,13 +1,13 @@
 Simon Fraser University CMPT 275 Software Engerring GROUP 2
 MuscalApp Application README
 
-#TABLE OF CONTENTS
+## TABLE OF CONTENTS
 - Introduction
 - General function descriptions
 - List of known bugs
 - Team members and resopnsiblity
 
-#Introduction
+# Introduction
 
 Welcome to Musclapp! Musclapp is a user input and muscle building game app that will be available on iOS platform devices. 
 The app is directed to teen and adults who desire to improve their muscles but do not have enough time to go to the gym. 
