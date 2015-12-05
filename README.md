@@ -26,29 +26,26 @@ stroke and/or heart attacks through cardiovascular activities.
 
 2. General function descriptions
 --------------------------------
-The application features a exercise application, user perfile, and instruction for users to manipulate. 
+-The application features a exercise application, user perfile, and instruction for users to manipulate. 
 Our project is coding by objective C, PHP and MySQL.
 
-Login and Register system:
+-Login and Register system:
 A user can create a new profile with the sign-up feature and be able to login the application.
 
-Main Page: 
+-Main Page: 
 The user can click the square buttons to the “Profile”, “My Activities”, and “Exercise” to toggle to the relative pages. 
 Additionally, the user can click the “Log off” to log off the account and toggle to the authentication page.
 
-Game System:
-
-
-My Activities:
+-My Activities:
 The calendar screen will keep track of user’s activity. If the user has used the app to exercise, the 
 date will be highlighted.
 
 
-User Profile:
+-User Profile:
 The user can enter the personal information, such as Gender, Age, Height, and Weight.
 When the user clicks the “Save” button, all the personal information will be stored in a file in the phone.
 
-Instruction:
+-Instruction:
 To see the whole exercise and their detailed instructions, user can select instruction from the main menu.
 The detailed instruction of the exercise is shown after the user click on a specific exercise from
 the instruction screen.
@@ -56,7 +53,7 @@ the instruction screen.
 
 3. List of known bugs
 ---------------
-- Countdown timer to start the exercise does not show up. The timer is supposed to appear
+Countdown timer to start the exercise does not show up. The timer is supposed to appear
 after the user press “start”.
 
 4. Team members and resopnsiblity
