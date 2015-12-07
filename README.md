@@ -58,3 +58,4 @@ the instruction screen.
 
 *Please come to our team website to get more details.*
 *Team Website: https://sites.google.com/site/sfu275group2/*
+*Demo: https://www.youtube.com/watch?v=rn11wCKuV8c*
